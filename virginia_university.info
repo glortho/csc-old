@@ -1,0 +1,31 @@
+; $Id: virginia_university.info,v 1.10 16-01-2013 00:27:20 dries Exp $
+name = University of virginia
+package = Core
+version = VERSION
+core = 7.x
+
+stylesheets[all][] = style.css
+
+; Information added by drupal.org packaging script on 16-01-2013
+version = "7.7"
+project = "drupal"
+
+regions[header_middle]         	  = Header Middle Area
+regions[header_right]         	  = Header Right Area
+
+regions[slogan_text]              = Slogan Text Area
+regions[menuarea]                 = Menu Area
+
+regions[sidebar_first]            = Left Area
+regions[sidebar_second]           = Right Area
+
+regions[upper_content]            = Upper Content
+regions[content_top]              = Content Top Area
+regions[content]                  = Content Area
+regions[content_bottom]           = Content Bottom Area
+
+regions[footer_left]              = Footer Left Area
+regions[footer_right]             = Footer Right Area
+regions[footer]              	  = Footer Area
+
+

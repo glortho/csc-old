@@ -1,0 +1,96 @@
+tbody{
+border:0px;
+}
+a{
+color:#004276;	
+text-decoration:none;
+outline:0px;
+} 
+a:hover {
+color:#cc0000;
+text-decoration:none;
+}
+h1,h2, h3, h4, h5, h6{
+font-weight:bold;
+padding:0 0 10px 0;
+margin:0px;
+border:0px;
+color:#000000;
+}
+h1{
+font-size:20px;
+}
+h2{
+font-size:18px;
+}
+h3{
+ font-size:14px;
+}
+p{
+padding:0 0 10px 0;
+}
+
+h1.title{
+font-size:24px;
+font-weight:lighter;
+color:#000000;
+line-height:24px;
+}
+
+#rightcontent.block{
+margin-bottom:19px;
+}
+
+#header_right ul{
+margin:0px;
+padding:0px;
+list-style:none;
+list-style-image:none;
+}
+#header_right ul li{
+margin:0px;
+padding:0px;
+list-style:none;
+list-style-image:none;
+float:left;
+}
+#header_right ul li a{
+padding-left:4px;
+padding-right:4px;
+color:#8e837d;
+font-size:10px;
+text-transform:uppercase;
+}
+#header_right ul li a:hover,
+#header_right ul li a.active{
+color:#74a4c2;
+}
+
+body.logged-in #block-search-form{
+position:absolute;
+margin-left:258px;
+margin-top:-34px;
+}
+body.not-logged-in #block-search-form{
+position:absolute;
+margin-left:258px;
+margin-top:-20px;
+}
+#block-search-form .form-text{
+width:108px;
+padding:3px;
+float:left;
+font-size:10px;
+color:#8e837d;
+border:0px;
+background:url(images/search_bg.png) no-repeat top left;
+}
+#block-search-form  .form-submit{
+width:23px;
+height:19px;
+border:0px;
+font-size:0px;
+cursor:pointer;
+float:left;
+margin-left:5px;
+background:url(images/submit_button.png) no-repeat top left;

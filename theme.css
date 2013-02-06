@@ -1,0 +1,326 @@
+tbody{
+border:0px;
+}
+a, a:visited{
+color:#74a4c5;
+text-decoration:none;
+outline:0px;
+}
+a:hover {
+color:#cc0000;
+text-decoration:none;
+}
+h1,h2, h3, h4, h5, h6{
+font-weight:bold;
+padding:0 0 10px 0;
+margin:0px;
+border:0px;
+color:#555;
+}
+h1{
+font-size:22px;
+}
+h2{
+font-size:20px;
+margin-bottom:12px;
+border-bottom:1px solid #8e837d;
+}
+h3{
+font-size:14px;
+margin-top: 20px;
+}
+p{
+padding:0 0 10px 0;
+}
+
+h1.main_title{
+font-size:26px;
+font-weight:lighter;
+color:#555;
+line-height:26px;
+}
+
+#rightcontent.block{
+margin-bottom:19px;
+}
+
+#header_middle ul{
+margin:0px;
+padding:0px;
+list-style:none;
+list-style-image:none;
+float:right;
+}
+#header_middle ul li{
+margin:0px;
+padding:0px;
+list-style:none;
+list-style-image:none;
+float:left;
+}
+#header_middle ul li.first{
+padding-left:40px;
+}
+#header_middle ul li a{
+padding-left:7px;
+padding-right:7px;
+color:#8e837d;
+font-size:10px;
+text-transform:uppercase;
+}
+#header_middle ul li a:hover,
+#header_middle ul li a.active{
+color:#74a4c2;
+}
+
+#block-search-form{
+float:right;
+overflow:hidden;
+}
+#block-search-form .form-text{
+width:108px;
+padding:3px;
+float:left;
+font-size:10px;
+color:#8e837d;
+border:0px;
+background:url(images/search_bg.png) no-repeat top left;
+}
+#block-search-form  .form-submit{
+vertical-align:top;
+width:23px;
+height:19px;
+border:0px;
+font-size:0px;
+cursor:pointer;
+margin-left:5px;
+background:url(images/submit_button.png) no-repeat top left;
+}
+#footer_right ul,
+#footer_left ul{
+margin:0px;
+padding:0px;
+list-style:none;
+list-style-image:none;
+padding-left:0px;
+}
+#footer_right ul li,
+#footer_left ul li{
+margin:0px;
+padding:0px;
+padding-left:35px;
+list-style:none;
+list-style-image:none;
+line-height:18px;
+}
+#footer_right ul li{
+padding-left:75px;
+}
+#footer_left ul li.expanded,
+#footer_right ul li.expanded{
+padding-left:0px;
+padding-bottom:15px;
+}
+
+#footer_right ul li a,
+#footer_left ul li a{
+color:#fcf7ed;
+font-size:12px;
+}
+
+#block-block-8 p{
+margin-left:75px;
+}
+
+#block-views-front_block-block{
+padding-top:22px;
+padding-bottom:7px;
+margin-top:22px;
+margin-bottom:22px;
+border-top:2px solid #bcbcbc;
+border-bottom:2px solid #bcbcbc;
+}
+
+.view-front-block table tr td{
+vertical-align:top;
+padding-right:27px;
+padding-bottom:20px;
+}
+.view-front-block .row-last .views-field-field-image{
+margin-top:20px;
+}
+.view-front-block .views-field-title{
+width:365px;
+height:39px;
+margin-top:-66px;
+padding-top:22px;
+padding-left:15px;
+position:absolute;
+}
+.view-front-block .views-field-title img{
+margin-bottom:-3px;
+margin-left:5px;
+}
+.view-front-block .views-field-title a{
+font-size:23px;
+color:#fff;
+}
+.view-front-block .row-first .col-first .views-field-title{
+background:url(images/contemplative_grounds_bg.png) no-repeat bottom left;
+}
+.view-front-block .row-first .col-last .views-field-title{
+background:url(images/contemplative_university_bg.png) no-repeat bottom left;
+}
+.view-front-block .row-last .col-first .views-field-title{
+background:url(images/contemplative_institute_bg.png) no-repeat bottom left;
+}
+.view-front-block .row-last .col-last .views-field-title{
+background:url(images/contemplative_network_bg.png) no-repeat bottom left;
+}
+.view-front-block .views-field-field-short-description{
+margin-top:10px;
+font-size:12px;
+color:#60544e;
+line-height:16px;
+}
+.view-front-block .row-first .col-first .views-field-view-node a{
+display:block;
+width:18px;
+height:18px;
+font-size:0px;
+cursor:pointer;
+margin-top:-15px;
+margin-left:190px;
+background:url(images/contemplative_grounds_arrow.png) no-repeat bottom left;
+}
+.view-front-block .row-first .col-last .views-field-view-node a{
+display:block;
+width:18px;
+height:18px;
+font-size:0px;
+cursor:pointer;
+margin-top:-15px;
+margin-left:360px;
+background:url(images/contemplative_university_ar.png) no-repeat bottom left;
+}
+.view-front-block .row-last .col-last .views-field-view-node a{
+display:block;
+width:18px;
+height:18px;
+font-size:0px;
+cursor:pointer;
+margin-top:-15px;
+margin-left:210px;
+background:url(images/contemplative_network_arrow.png) no-repeat bottom left;
+}
+.view-front-block .row-last .col-first .views-field-view-node a{
+display:block;
+width:18px;
+height:18px;
+font-size:0px;
+cursor:pointer;
+margin-top:-15px;
+margin-left:275px;
+background:url(images/contemplative_institute_arr.png) no-repeat bottom left;
+}
+.view-front-block .row-first .views-field-title{
+margin-top: 193px;
+}
+.view-front-block .row-last .views-field-title{
+margin-top: 213px;
+}
+.views-field-title a{
+background:url(images/title_arrow_bg.png) no-repeat 332px 0px;
+padding-right: 50px;
+white-space: nowrap;
+}
+.row-1 .col-2 .views-field-title a{
+font-size:22px;
+}
+#block-block-3{
+padding-bottom:20px;
+margin-bottom:20px;
+border-bottom:2px solid #bcbcbc;
+}
+
+#block-block-3 h2.block-title,
+#block-block-4 h2.block-title{
+color:#000000;
+font-size:22px;
+font-weight:lighter;
+}
+#block-block-3 p,
+#block-block-4 p{
+margin:0px;
+padding:0px;
+font-size:14px;
+padding-top:5px;
+}
+#maindiv .heading_text{
+font-size:14px;
+}
+
+#menuarea ul{
+margin:0px;
+padding:0px;
+list-style:none;
+list-style-image:none;
+}
+#menuarea ul li{
+margin:0px;
+padding:0px;
+list-style:none;
+list-style-image:none;
+float:left;
+padding-top:16px;
+padding-bottom:12px;
+background:url(images/inner_menu_sep.png) no-repeat center right;
+}
+#menuarea ul li.last{
+background:none;
+}
+#menuarea ul li a{
+padding-left:12px;
+padding-right:11px;
+color:#ffffff;
+font-size:15px;
+font-weight:lighter;
+}
+#menuarea ul li a:hover,
+#menuarea ul li a.active{
+color:#0a0a0a;
+}
+
+#block-block-6 ul{
+margin:0px;
+padding:0px;
+list-style:none;
+list-style-image:none;
+}
+#block-block-6 ul li{
+margin:0px;
+padding:0px;
+list-style:none;
+list-style-image:none;
+line-height:18px;
+padding-right:30px;
+}
+#block-block-6 ul li.first.expanded{
+display:none;
+}
+
+#block-block-6 ul li a{
+color:#ac9d94;
+font-size:12px;
+overflow:hidden;
+}
+#block-block-6 ul li a:hover{
+color:#010101;
+}
+#block-block-6 ul li a.active{
+color:#010101;
+font-size:14px;
+}
+.field-item hr{
+margin:20px 0px;
+}
